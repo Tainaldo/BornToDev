@@ -18,7 +18,7 @@ def Fresult():
     else:
         print("ผอมเกินไป") 
         textresult = "ผอมเกินไป"
-    labelResult.configure(text=textresult)
+    labelResult.configure(text=textresult,bg="#FBCCE0")
 
 
 MainWindow = Tk()
