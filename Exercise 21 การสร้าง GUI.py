@@ -36,3 +36,4 @@ calculateButton.grid(row=2,column=0)
 labelResult = Label(MainWindow,text="ผลลัพธ์")
 labelResult.grid(row=2,column=1)
 MainWindow.mainloop()
+
