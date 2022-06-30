@@ -1,6 +1,3 @@
-from unicodedata import name
-
-
 class Customer:
     name = ""  # name คือ Attribute
     lastname = ""
