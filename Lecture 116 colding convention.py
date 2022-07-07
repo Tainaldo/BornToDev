@@ -22,6 +22,6 @@ class CustomerApp:
 
 customer1 = CustomerApp() # เรียกใช้งาน Function # เว้นจาก class 2 บรรทัด
 customer1.name = "Tai"
-customer1.lastname = "Jaikla"
+customer1.lastname = "Jaikla" 
 customer1.age = 10
 customer1.addCart()
